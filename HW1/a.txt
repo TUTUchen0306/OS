@@ -1,0 +1,8 @@
+total 336
+-rwxr-xr-x  1 tutuchen  staff  50416  9 20 15:12 a.out
+---x------  1 tutuchen  staff      0  9 20 15:16 a.txt
+-rwxr-xr-x  1 tutuchen  staff  50128  9 18 17:31 hw1
+-rw-r--r--  1 tutuchen  staff   1184  9 19 17:01 hw1.c
+-rw-r--r--@ 1 tutuchen  staff   2814  9 19 17:01 hw1t.c
+-rwxr-xr-x  1 tutuchen  staff  49592  9 18 01:11 test
+-rw-r--r--  1 tutuchen  staff    432  9 18 15:55 test.c
